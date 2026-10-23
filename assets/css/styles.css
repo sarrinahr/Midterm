@@ -66,3 +66,7 @@ a {
 a:hover {
     color: #a16b89;
 }
+
+.info{
+  font-size: 5px;
+}
