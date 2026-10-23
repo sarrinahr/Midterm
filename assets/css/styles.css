@@ -36,6 +36,34 @@ p {
 
   
 img {
-    width: 100px;
+    width: 130px;
     margin-bottom: 20px;
+}
+
+.sidebar {
+    background-color: #f1e8ec;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+h2 {
+    padding-bottom: 8px;
+    border-bottom: 1px solid #d8c4ce;
+}
+
+p {
+    line-height: 1.7;
+}
+
+li {
+    margin-bottom: 6px;
+    line-height: 1.5;
+}
+
+a {
+    color: #75405e;
+}
+
+a:hover {
+    color: #a16b89;
 }
