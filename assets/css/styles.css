@@ -1,6 +1,32 @@
 /* styles.css */
 
-body{
+body {
   font-family: "DM Sans", sans-serif;
-  
+  background-color: #f5f1ed;
+  color: #38313a;
+  padding: 20px;
+}
+
+.container {
+  background-color: #fffdfb;
+  padding: 50px;
+  border: 1px #e5d9df;
+
+h1,h2 {
+  font-family: "Fraunces", serif;
+}
+
+h1 {
+  font-size: 38px;
+  color: #603b52;
+  margin-botton: 25px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+img {
+    max-width: 200px;
+    margin-bottom: 20px;
 }
